@@ -25,6 +25,7 @@
 Подписка на рассылки о новых появившихся товарах. Получают все, кто подписался на рассылки в настройках профиля.
 
 Ссылка на бот: https://t.me/SamKebabBot
+
 Google таблицы: https://docs.google.com/spreadsheets/d/14z7iCRZ7CLp1f9YYV-ivY4uyerRG6-5S89lP52HyLWw/
 
 ## **Запуск проекта**
